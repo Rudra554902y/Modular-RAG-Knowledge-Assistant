@@ -1,0 +1,17 @@
+numpy>=2.1.0
+
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-community==0.3.24
+
+langchain-groq==0.3.2
+
+pydantic==2.11.4
+python-dotenv==1.1.0
+
+sentence-transformers==4.1.0
+faiss-cpu==1.11.0
+chromadb==1.0.10
+
+pypdf==5.5.0
+pymupdf==1.26.0
